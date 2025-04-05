@@ -16,6 +16,115 @@
       "url": "https://datasetsearch.research.google.com/",
       "description": "Buscador de datasets públicos indexados por Google de múltiples fuentes.",
       "category": "Buscadores de Datasets"
+    },
+    {
+      "name": "Datos Abiertos del Gobierno de España",
+      "url": "https://datos.gob.es/",
+      "description": "Portal oficial del Gobierno de España para datos abiertos de administraciones públicas.",
+      "category": "Gobierno"
+    },
+    {
+      "name": "World Bank Open Data",
+      "url": "https://data.worldbank.org/",
+      "description": "Indicadores de desarrollo económico, social y financiero a nivel mundial.",
+      "category": "Economía y Finanzas"
+    },
+    {
+      "name": "UN Data",
+      "url": "https://data.un.org/",
+      "description": "Estadísticas globales proporcionadas por las Naciones Unidas.",
+      "category": "Geografía y Demografía"
+    },
+    {
+      "name": "Global Health Observatory (WHO)",
+      "url": "https://www.who.int/data/gho",
+      "description": "Datos internacionales sobre salud pública recopilados por la OMS.",
+      "category": "Salud"
+    },
+    {
+      "name": "OpenWeatherMap API",
+      "url": "https://openweathermap.org/api",
+      "description": "API gratuita y de pago para acceder a datos meteorológicos en tiempo real e históricos.",
+      "category": "Medio Ambiente"
+    },
+    {
+      "name": "IMDb Datasets",
+      "url": "https://www.imdb.com/interfaces/",
+      "description": "Datos abiertos de películas, series, actores y ratings publicados por IMDb.",
+      "category": "Cultura y Entretenimiento"
+    },
+    {
+      "name": "IEA Energy Data Centre",
+      "url": "https://www.iea.org/data-and-statistics",
+      "description": "Datos sobre producción, consumo y precios de energía a nivel global.",
+      "category": "Energía"
+    },
+    {
+      "name": "EU Open Transport Data",
+      "url": "https://transport.ec.europa.eu/transport-themes/statistics_en",
+      "description": "Estadísticas europeas de transporte terrestre, marítimo y aéreo.",
+      "category": "Transporte"
+    },
+    {
+      "name": "OECD Education Statistics",
+      "url": "https://stats.oecd.org/Index.aspx?DataSetCode=EDU_DEM",
+      "description": "Datos comparativos sobre educación en países de la OCDE.",
+      "category": "Educación"
+    },
+    {
+      "name": "GitHub Archive",
+      "url": "https://www.gharchive.org/",
+      "description": "Eventos públicos de GitHub recopilados por hora desde 2011.",
+      "category": "Tecnología"
+    },
+    {
+      "name": "Twitter Academic Research API",
+      "url": "https://developer.twitter.com/en/docs/twitter-api",
+      "description": "Acceso para investigadores a tweets históricos y metadatos.",
+      "category": "Redes Sociales"
+    },
+    {
+      "name": "Climate Data Store (Copernicus)",
+      "url": "https://cds.climate.copernicus.eu/",
+      "description": "Datos climáticos globales de libre acceso sobre temperaturas, precipitaciones, etc.",
+      "category": "Medio Ambiente"
+    },
+    {
+      "name": "NASA Open Data Portal",
+      "url": "https://data.nasa.gov/",
+      "description": "Miles de datasets abiertos de misiones, clima, tierra, espacio y más.",
+      "category": "Ciencia y Espacio"
+    },
+    {
+      "name": "Global Biodiversity Information Facility (GBIF)",
+      "url": "https://www.gbif.org/",
+      "description": "Base de datos global de especies animales y vegetales.",
+      "category": "Biodiversidad"
+    },
+    {
+      "name": "OpenStreetMap Datasets",
+      "url": "https://download.geofabrik.de/",
+      "description": "Descarga de datos geoespaciales de OSM por continente o país.",
+      "category": "Geografía y Mapas"
+    },
+    {
+      "name": "World Bank Open Data",
+      "url": "https://data.worldbank.org/",
+      "description": "Indicadores de desarrollo económico, social y financiero a nivel mundial.",
+      "category": "Economía y Finanzas"
+    },
+    {
+      "name": "UN Data",
+      "url": "https://data.un.org/",
+      "description": "Estadísticas globales proporcionadas por las Naciones Unidas.",
+      "category": "Geografía y Demografía"
+    },
+    {
+      "name": "IMDb Datasets",
+      "url": "https://www.imdb.com/interfaces/",
+      "description": "Datos abiertos de películas, series, actores y ratings publicados por IMDb.",
+      "category": "Cultura y Entretenimiento"
     }
   ]
+    
   
