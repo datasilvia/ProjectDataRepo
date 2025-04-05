@@ -1,6 +1,21 @@
-[
-    { "name": "WHO Open Data", "url": "https://www.who.int/data" },
-    { "name": "Kaggle Datasets", "url": "https://www.kaggle.com/datasets" },
-    { "name": "Google Dataset Search", "url": "https://datasetsearch.research.google.com/" }
+  [
+    {
+      "name": "WHO Open Data",
+      "url": "https://www.who.int/data",
+      "description": "Datos abiertos sobre salud global ofrecidos por la Organización Mundial de la Salud.",
+      "category": "Salud"
+    },
+    {
+      "name": "Kaggle Datasets",
+      "url": "https://www.kaggle.com/datasets",
+      "description": "Colección de datasets subidos por la comunidad, ideales para machine learning y análisis de datos.",
+      "category": "Miscelánea"
+    },
+    {
+      "name": "Google Dataset Search",
+      "url": "https://datasetsearch.research.google.com/",
+      "description": "Buscador de datasets públicos indexados por Google de múltiples fuentes.",
+      "category": "Buscadores de Datasets"
+    }
   ]
   
