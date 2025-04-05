@@ -106,24 +106,6 @@
       "url": "https://download.geofabrik.de/",
       "description": "Descarga de datos geoespaciales de OSM por continente o país.",
       "category": "Geografía y Mapas"
-    },
-    {
-      "name": "World Bank Open Data",
-      "url": "https://data.worldbank.org/",
-      "description": "Indicadores de desarrollo económico, social y financiero a nivel mundial.",
-      "category": "Economía y Finanzas"
-    },
-    {
-      "name": "UN Data",
-      "url": "https://data.un.org/",
-      "description": "Estadísticas globales proporcionadas por las Naciones Unidas.",
-      "category": "Geografía y Demografía"
-    },
-    {
-      "name": "IMDb Datasets",
-      "url": "https://www.imdb.com/interfaces/",
-      "description": "Datos abiertos de películas, series, actores y ratings publicados por IMDb.",
-      "category": "Cultura y Entretenimiento"
     }
   ]
     
